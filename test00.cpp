@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
 #include "symtable.h"
-#include "catch.hpp"
 
 using namespace std;
 
